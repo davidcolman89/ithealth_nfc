@@ -1,0 +1,22 @@
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/classes.dex : \
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/classes/org/apache/cordova/api/Dummy.class \
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/classes/org/apache/cordova/device/Device.class \
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/classes/org/apache/cordova/vibration/Vibration.class \
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$7.class \
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/Util.class \
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$4.class \
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$8.class \
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$5.class \
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$2.class \
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$6.class \
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$1.class \
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin$3.class \
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/classes/com/chariotsolutions/nfc/plugin/NfcPlugin.class \
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/classes/com/example/nfc/R$attr.class \
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/classes/com/example/nfc/BuildConfig.class \
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/classes/com/example/nfc/R$drawable.class \
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/classes/com/example/nfc/R$string.class \
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/classes/com/example/nfc/R$xml.class \
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/classes/com/example/nfc/NFC.class \
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/classes/com/example/nfc/R.class \
+/var/www/freelance/ithealth/cordova/nfc/platforms/android/ant-build/dexedLibs/classes-7e34db89432fd2ab49fb1e5794db5200.jar \
